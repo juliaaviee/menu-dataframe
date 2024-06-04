@@ -48,7 +48,7 @@ df_Menu. len(df_Menu) retorna o número total de linhas no dataframe.
 dataframe_transposed = df_Menu.T vai criar um novo dataframe. A transposição troca as linhas e colunas.
 A última linha df_Menu = df_Menu.transpose() modifica o dataframe original df_Menu para que ele seja agora a transposição original.
 
-9)Apresente em tela somente a 1ª e a 2ª coluna (rótulo) da base de dados
+9) Apresente em tela somente a 1ª e a 2ª coluna (rótulo) da base de dados
 
 
 O método '.iloc' é usado para indexar e selecionar partes de um dataframe usando posições numéricas.
