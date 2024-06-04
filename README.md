@@ -1,7 +1,6 @@
 # menu-dataframe
 ## Descrição
 
-Exemplo:
 Este é um projeto para análise de dados sobre alimentos, utilizando Python e Pandas para processar e visualizar os dados. *Foi utilizado o Google Collab.*
 
 COMO FOI DESENVOLVIDO O PROJETO?
